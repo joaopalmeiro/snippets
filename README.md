@@ -1,5 +1,7 @@
 # Snippets
 
+A collection of code snippets for different technologies.
+
 ## Vue 3
 
 | Repo                                                                             | Description                                                                           | Creation Date |
