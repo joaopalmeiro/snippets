@@ -1,6 +1,6 @@
-# Snippets
+# snippets
 
-A collection of code snippets for different technologies.
+A collection of ready-to-test code snippets for different technologies.
 
 ## Vue 3
 
