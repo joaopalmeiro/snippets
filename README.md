@@ -2,6 +2,12 @@
 
 A collection of ready-to-test code snippets for different technologies.
 
+## [CSS](https://www.w3.org/Style/CSS/)
+
+| Repo                                                                             | Description                                                                                                    | Creation Date     |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [nextra-logo-animation](https://gitlab.com/joaommpalmeiro/nextra-logo-animation) | [Nextra](https://nextra.site/) logo animation by [Shu Ding](https://github.com/shuding) for learning purposes. | February 21, 2024 |
+
 ## [Vue](https://vuejs.org/)
 
 | Repo                                                                                               | Description                                                                                              | Creation Date     |
